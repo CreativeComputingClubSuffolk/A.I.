@@ -92,5 +92,5 @@ while (running==True):
         if Test=="":
             learnNew(Response)
 
-running=False
+    running=False
     
